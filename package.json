@@ -2,7 +2,7 @@
   "name": "sk-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shraddha-kaparwan.github.io/sk-portfolio",
+  "homepage": "https://shraddha-kaparwan.github.io/sk-portfolio",
   "dependencies": {
     "@react-pdf/renderer": "^1.6.11",
     "@testing-library/jest-dom": "^4.2.4",
