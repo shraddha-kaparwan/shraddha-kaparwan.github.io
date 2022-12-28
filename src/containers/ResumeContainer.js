@@ -36,7 +36,7 @@ class ResumeContainer extends React.Component {
         {this.state.currentlyShowing === "None" ?
           <div className="containers" >
             <h2 className="h2" >Résumé</h2>
-            <h2><a href="https://github.com/shraddha-kaparwan/shraddha-kaparwan.github.io/src/Shraddha-Kaparwan-Resume.pdf" id="PDF-link" rel="noopener noreferrer" target="_blank" >Download PDF Version</a></h2>
+            <h2><a href="https://github.com/shraddha-kaparwan/shraddha-kaparwan.github.io/raw/main/src/Shraddha-Kaparwan-Resume.pdf" id="PDF-link" rel="noopener noreferrer" target="_blank" >Download PDF Version</a></h2>
             <Resume handleChangeCurrentlyShowing={this.handleChangeCurrentlyShowing} />
           </div>
           :
