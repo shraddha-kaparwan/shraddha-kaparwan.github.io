@@ -10,7 +10,7 @@ function Contact() {
         <a href="https://github.com/shraddha-kaparwan" rel="noopener noreferrer" target="_blank" >
           <img src={require("../media/github-icon.svg")} alt='' className="contact-icons" />
         </a><br></br>
-        <a href="https://www.linkedin.com/in/shraddha-kaparwan" rel="noopener noreferrer" target="_blank" >
+        <a href="https://www.linkedin.com/in/shraddhakaparwan" rel="noopener noreferrer" target="_blank" >
           <img src={require("../media/linkedin-icon.svg")} alt='' className="contact-icons" />
         </a><br></br>
         <a href={`mailto:shraddha.kaparwan@gmail.com`} >
